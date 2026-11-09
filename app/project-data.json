@@ -1,0 +1,36 @@
+{
+  "projects": [
+    {
+      "name": "Community Onboarding",
+      "owner": "Mona Patel",
+      "status": "active",
+      "recentActivity": "Published the welcome guide draft; looking for a review of the setup steps.",
+      "priority": "high",
+      "summary": "Make it easier for first-time contributors to find a task, set up locally, and make their first contribution."
+    },
+    {
+      "name": "Design System Refresh",
+      "owner": "Jordan Lee",
+      "status": "planned",
+      "recentActivity": "Collected component feedback from three product teams and grouped the top requests.",
+      "priority": "medium",
+      "summary": "Refresh shared interface components and document accessible usage patterns for product teams."
+    },
+    {
+      "name": "Data Export Reliability",
+      "owner": "Avery Chen",
+      "status": "blocked",
+      "recentActivity": "Load testing surfaced a storage quota issue; coordinating a fix with the platform team.",
+      "priority": "high",
+      "summary": "Improve the dependability of large data exports and give users clearer recovery guidance."
+    },
+    {
+      "name": "Release Notes Hub",
+      "owner": "Sam Rivera",
+      "status": "completed",
+      "recentActivity": "Launched the searchable release notes page and handed maintenance notes to support.",
+      "priority": "low",
+      "summary": "Bring product release notes together in one searchable, easy-to-share destination."
+    }
+  ]
+}
